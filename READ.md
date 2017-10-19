@@ -1,4 +1,4 @@
-This project provides list of San Diego Top Spots. It is created in React.JS
+This project provides a list of San Diego Top Spots. It is created in React.JS
 
 Run:
 1.npm install
